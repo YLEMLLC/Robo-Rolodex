@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.2e0344a8.chunk.css",
-    "main.js": "/static/js/main.1c94464a.chunk.js",
-    "main.js.map": "/static/js/main.1c94464a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2063c5f3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2063c5f3.js.map",
-    "static/js/2.162b9a25.chunk.js": "/static/js/2.162b9a25.chunk.js",
-    "static/js/2.162b9a25.chunk.js.map": "/static/js/2.162b9a25.chunk.js.map",
-    "static/js/3.790f3747.chunk.js": "/static/js/3.790f3747.chunk.js",
-    "static/js/3.790f3747.chunk.js.map": "/static/js/3.790f3747.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.2e0344a8.chunk.css.map": "/static/css/main.2e0344a8.chunk.css.map",
-    "static/js/2.162b9a25.chunk.js.LICENSE.txt": "/static/js/2.162b9a25.chunk.js.LICENSE.txt"
+    "main.css": "/Robo-Rolodex/static/css/main.2e0344a8.chunk.css",
+    "main.js": "/Robo-Rolodex/static/js/main.1c94464a.chunk.js",
+    "main.js.map": "/Robo-Rolodex/static/js/main.1c94464a.chunk.js.map",
+    "runtime-main.js": "/Robo-Rolodex/static/js/runtime-main.576264ed.js",
+    "runtime-main.js.map": "/Robo-Rolodex/static/js/runtime-main.576264ed.js.map",
+    "static/js/2.162b9a25.chunk.js": "/Robo-Rolodex/static/js/2.162b9a25.chunk.js",
+    "static/js/2.162b9a25.chunk.js.map": "/Robo-Rolodex/static/js/2.162b9a25.chunk.js.map",
+    "static/js/3.790f3747.chunk.js": "/Robo-Rolodex/static/js/3.790f3747.chunk.js",
+    "static/js/3.790f3747.chunk.js.map": "/Robo-Rolodex/static/js/3.790f3747.chunk.js.map",
+    "index.html": "/Robo-Rolodex/index.html",
+    "static/css/main.2e0344a8.chunk.css.map": "/Robo-Rolodex/static/css/main.2e0344a8.chunk.css.map",
+    "static/js/2.162b9a25.chunk.js.LICENSE.txt": "/Robo-Rolodex/static/js/2.162b9a25.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2063c5f3.js",
+    "static/js/runtime-main.576264ed.js",
     "static/js/2.162b9a25.chunk.js",
     "static/css/main.2e0344a8.chunk.css",
     "static/js/main.1c94464a.chunk.js"
