@@ -1,6 +1,11 @@
 # Robo-Rolodex
+Npm i to install
+npm start for dev server
 
-Simple react applicartion with a jsonplaceholder rest api for server like funcnition. 
-The api is maped creating Robohash images on cards that use jsonplaceholde api user ID as the. 
-You can search by name to filter out robots by name. 
-yr it your self...
+Very simple  React application using the a rest api.
+
+.map method and .filter array methods are used to filter out a rest api with  a fun twist of robo generated images. 
+
+Here is the live link. GLHF
+
+  https://ylemllc.github.io/Robo-Rolodex/
